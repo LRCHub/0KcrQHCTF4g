@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フラジェール",
+  "base_artist": "リュベンス",
+  "createdAt": "2026-03-05T13:16:55.195346Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フラジェール",
+      "artist": "リュベンス",
+      "has_synced": false,
+      "path": "select/pl_01_フラジェール_リュベンス.txt"
+    }
+  ]
+}
